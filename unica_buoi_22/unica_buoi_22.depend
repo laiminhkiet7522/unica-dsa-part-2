@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1720149087 source:d:\unica\unica-dsa-part-2\unica_buoi_22\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
